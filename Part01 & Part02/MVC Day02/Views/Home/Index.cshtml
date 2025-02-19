@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Academy</h1>
+    <a href="/Student/ShowAll" class="btn btn-primary">Show ALL Students</a>
+    <br>
+    <form>
+        <div>
+            <label for="StdId" class="col-form-label">Enter the Id of Student</label>
+            <input type="text" class="form-control form-control-sm w-50 mx-auto" id="StdId" />
+        </div>
+        <br>
+        <a href="#" id="studentLink" class="btn btn-primary">Show Student</a>
+    </form>
+    <script>
+        document.getElementById("StdId").addEventListener("input", function() {
+            let inputText = document.getElementById("StdId").value;
+            let studentLink = document.getElementById("studentLink");
+            studentLink.href = inputText ? "/Student/ShowDetails?id=" + encodeURIComponent(inputText) : "#";
+        });
+    </script>
+</div>

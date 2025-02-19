@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\dbcontexts\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\dbcontexts\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\services\\studentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\services\\studentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day02\\part01 \u0026 part02\\mvc day02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44E544E-22F3-475F-989A-46F45333753A}|MVC Day02\\MVC Day02.csproj|solutionrelative:mvc day02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC Day02\\Views\\Student\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeToolTip": "MVC Day02\\Views\\Student\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T11:27:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC Day02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC Day02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T10:59:40.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC Day02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC Day02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T10:54:16.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC Day02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:15:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Services\\StudentsServices.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Services\\StudentsServices.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Services\\StudentsServices.cs",
+              "RelativeToolTip": "MVC Day02\\Services\\StudentsServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:26:46.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Student\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "MVC Day02\\Views\\Student\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Views\\Student\\ShowAll.cshtml",
+              "RelativeToolTip": "MVC Day02\\Views\\Student\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T00:39:59.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Course.cs",
+              "RelativeToolTip": "MVC Day02\\Models\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:23:07.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC Day02\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\appsettings.json",
+              "RelativeToolTip": "MVC Day02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T00:34:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Student.cs",
+              "RelativeToolTip": "MVC Day02\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:41:53.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Models\\Department.cs",
+              "RelativeToolTip": "MVC Day02\\Models\\Department.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:48:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcademyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\DbContexts\\AcademyDbContext.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\DbContexts\\AcademyDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\DbContexts\\AcademyDbContext.cs",
+              "RelativeToolTip": "MVC Day02\\DbContexts\\AcademyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:33:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Program.cs",
+              "RelativeDocumentMoniker": "MVC Day02\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day02\\Part01 \u0026 Part02\\MVC Day02\\Program.cs",
+              "RelativeToolTip": "MVC Day02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:14:33.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
